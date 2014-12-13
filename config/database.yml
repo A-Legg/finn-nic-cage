@@ -6,8 +6,8 @@ default: &default
 
 development:
   <<: *default
-  database: g3-assessment-week-12-development
+  database: g3-assessment-week-12-development-2
 
 test:
   <<: *default
-  database: g3-assessment-week-12-test
+  database: g3-assessment-week-12-test-2
