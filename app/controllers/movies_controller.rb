@@ -16,4 +16,8 @@ else
 end
 
   end
+
+  def destroy
+    
+  end
 end
